@@ -35,6 +35,7 @@
    <img alt="AdobeXD" src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
    <img alt="Built with Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"
    />
+   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"
    />
