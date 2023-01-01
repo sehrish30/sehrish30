@@ -41,13 +41,13 @@
    <img alt="AdobeXD" src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
    <img alt="Built with Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"
    />
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWSXD&logoColor=white"
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"
    />
 </p>
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, React Native <br /> Graphql, Mongodb, Javascript, TypeScript, Next.js etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, React Native, <br /> Graphql, Mongodb, Javascript, TypeScript, Next.js etc.
 - 🌱 &nbsp; I want to learn Dart.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sehrish30/sehrish30/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳
