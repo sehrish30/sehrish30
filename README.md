@@ -36,7 +36,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express-808080?style=flat-square&logo=Express&logoColor=green" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=green" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
    <img alt="AdobeXD" src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
    <img alt="Built with Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"
