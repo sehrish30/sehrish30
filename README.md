@@ -28,7 +28,7 @@
   <img alt="SWR" src="https://img.shields.io/badge/SWR-React%20Hooks-FF0080?logo=react" />
   <img alt="CDK" src="https://img.shields.io/badge/AWS-CDK-FF9900?logo=amazon-aws " />
   <img alt="Serverless framework" src="https://img.shields.io/badge/Serverless-Framework-orange?logo=serverless" />
-  <img alt="Appsync" src=" https://img.shields.io/badge/AWS-AppSync-FF9900?logo=amazon-aws" />
+  <img alt="Appsync" src="https://img.shields.io/badge/AWS-AppSync-FF9900?logo=amazon-aws" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
