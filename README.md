@@ -25,11 +25,13 @@
   <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="redux toolkit" src="https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux" />
   <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"
   />
-  <img alt="Serverless framework" src="https://img.shields.io/badge/AWS-CDK-FF9900?logo=amazon-aws " />
+  <img alt="SWR" src="https://img.shields.io/badge/SWR-React%20Hooks-FF0080?logo=react" />
+  <img alt="CDK" src="https://img.shields.io/badge/AWS-CDK-FF9900?logo=amazon-aws " />
   <img alt="Serverless framework" src="https://img.shields.io/badge/Serverless-Framework-orange?logo=serverless" />
+  <img alt="Appsync" src=" https://img.shields.io/badge/AWS-AppSync-FF9900?logo=amazon-aws" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -60,8 +62,7 @@
 - 🛠 &nbsp; I’m currently working with Nodejs, cdk, React, React Native, <br /> Graphql, Mongodb, Serverless framework, TypeScript, Next.js etc.
 - 🌱 &nbsp; I want to learn Dart.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sehrish30/sehrish30/issues/)! I am happy to help.
-<!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳 -->
-- 👾 &nbsp; Fun fact: JavaScript's hoisting feature allows variables and functions to be declared after they are used in your code! 😅 I love to cook 👩‍🍳
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳
 - 😄 &nbsp;Pronouns: She / Her
 - 📫 &nbsp; How to reach me: sehrishwaheed98@gmail.com.
 
