@@ -1,5 +1,13 @@
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center">I'm Sehrish Waheed, a Full-Stack developer with a passion for working with JavaScript and TypeScript. I enjoy exploring new technologies and finding ways to use them to solve real-world problems ✨. In addition to my technical skills, I also love to guide and mentor newbies 👨🏻‍💻. </p>
+<h1 align="center"> Hi there 👋 I'm Sehrish Waheed </h1>
+<p align="center">, a Full-Stack developer 👨🏻‍💻 with a passion for working with TypeScript. I enjoy exploring new technologies and finding ways to use them to solve real-world problems ✨. </p>
+
+## About Me
+
+- 👨🏻‍💻 Full-Stack developer
+- 🧠 Over 2 years of experience with various positions and tech stacks
+- 🤔 Always learning and experimenting
+- 🛣️ Leadership practice
+- ✨ Solve practical, real-world problems
 
 <img align="right" src="https://res.cloudinary.com/dcg3x1e8t/image/upload/v1672565930/istockphoto-1084848808-612x612_pqq8mt.jpg" height="300" width="300">
 
@@ -18,8 +26,10 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-   <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"
-   />
+  <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"
+  />
+  <img alt="Serverless framework" src="https://img.shields.io/badge/AWS-CDK-FF9900?logo=amazon-aws " />
+  <img alt="Serverless framework" src="https://img.shields.io/badge/Serverless-Framework-orange?logo=serverless" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -47,10 +57,11 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, React Native, <br /> Graphql, Mongodb, Javascript, TypeScript, Next.js etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, cdk, React, React Native, <br /> Graphql, Mongodb, Serverless framework, TypeScript, Next.js etc.
 - 🌱 &nbsp; I want to learn Dart.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sehrish30/sehrish30/issues/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳
+<!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳 -->
+- 👾 &nbsp; Fun fact: JavaScript's hoisting feature allows variables and functions to be declared after they are used in your code! 😅 I love to cook 👩‍🍳
 - 😄 &nbsp;Pronouns: She / Her
 - 📫 &nbsp; How to reach me: sehrishwaheed98@gmail.com.
 
@@ -60,7 +71,7 @@
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, Meetups & tech events.
 
-<h2>✈️ Sehrish's Github Stats:</h2>
+<!-- <h2>✈️ Sehrish's Github Stats:</h2> -->
 
-![Sehrish Waheed's Github Stats](https://github-readme-stats.vercel.app/api?username=sehrish30&theme=flagindia&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
-![Sehrish Waheed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehrish30&theme=default_repocard&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c)
+<!-- ![Sehrish Waheed's Github Stats](https://github-readme-stats.vercel.app/api?username=sehrish30&theme=dark&count_private=true&include_all_commits=true&show_icons=true&hide=contribs%22%20alt=%22Sehrish%27s%20GitHub%20Stats)
+![Sehrish Waheed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehrish30&theme=dark&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c) -->
