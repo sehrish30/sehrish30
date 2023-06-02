@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋 I'm Sehrish Waheed </h1>
-<p align="center">, a Full-Stack developer 👨🏻‍💻 with a passion for working with TypeScript. I enjoy exploring new technologies and finding ways to use them to solve real-world problems ✨. </p>
+<h1 align="left"> Hi there 👋 I'm Sehrish Waheed </h1>
+<!-- <p align="center">a Full-Stack developer 👨🏻‍💻 with a passion for working with TypeScript. I enjoy exploring new technologies and finding ways to use them to solve real-world problems ✨. </p> -->
 
 ## About Me
 
