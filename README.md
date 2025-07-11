@@ -1,12 +1,12 @@
 <h1 align="left"> Hi there 👋 I'm Sehrish Waheed </h1>
 
 - 👨🏻‍💻 Full-Stack developer
-- 🧠 Over 2 years of experience with various positions and tech stacks
+- 🧠 Over 4 years of experience with various positions and tech stacks
 - 🤔 Always learning and experimenting
 - 🛣️ Leadership practice
 - ✨ Solve practical, real-world problems
 
-<img align="right" src="https://res.cloudinary.com/dcg3x1e8t/image/upload/v1672565930/istockphoto-1084848808-612x612_pqq8mt.jpg" height="300" width="300">
+<img align="right" src="https://res.cloudinary.com/dcg3x1e8t/image/upload/v1752243148/undraw_remote-worker_0l91_rhftwi.png" height="300" width="300">
 
 <h3>Where to find me</h3>
 <p> <a href="https://www.linkedin.com/in/sehrish-waheed-bb09571a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,6 +18,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
+  <img alt="strapi" src=" https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=strapi&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -56,12 +57,11 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Nodejs, cdk, React, React Native, <br /> Graphql, Mongodb, Serverless framework, TypeScript, Next.js etc.
-- 🌱 &nbsp; I want to learn Dart.
+- 🛠 &nbsp; I’m currently working with Nextjs, React, React Native, <br /> Graphql, Mongodb, TypeScript, Nodejs etc.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sehrish30/sehrish30/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳
 - 😄 &nbsp;Pronouns: She / Her
-- 📫 &nbsp; How to reach me: sehrishwaheed98@gmail.com.
+- 📫 &nbsp; How to reach me: sehrishwaheed30@gmail.com.
 
 <h3>My Absolute Favorites:</h3>
 
