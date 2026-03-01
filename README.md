@@ -57,9 +57,9 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Nextjs, React, React Native, <br /> Graphql, Mongodb, TypeScript, Nodejs etc.
+- 🛠 &nbsp; I’m currently working with Nextjs, React, React Native, strapi, Nodejs and learning java.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sehrish30/sehrish30/issues/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript 😅 I love to cook 👩‍🍳
+- 👾 &nbsp; Fun fact: Writing comments so the AI knows what code to write.
 - 😄 &nbsp;Pronouns: She / Her
 - 📫 &nbsp; How to reach me: sehrishwaheed30@gmail.com.
 
